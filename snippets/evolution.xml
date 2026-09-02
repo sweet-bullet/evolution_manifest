@@ -53,7 +53,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/soong" name="build_soong" groups="pdk,tradefed" remote="evo" />
+  <project path="build/soong" name="sweet-bullet/build_soong_evo" groups="pdk,tradefed" remote="github" revision="cnb" />
 
   <!-- External -->
   <project path="external/FadingEdgeLayout" name="external_FadingEdgeLayout" remote="evo" />
@@ -74,7 +74,7 @@
   <project path="hardware/lineage/compat" name="hardware_lineage_compat" remote="evo" />
 
   <!-- Infrastructure -->
-  <project path="evolution/manifest" name="manifest" remote="evo" />
+  <project path="evolution/manifest" name="sweet-bullet/evolution_manifest" remote="github" revision="cnb" />
   <project path="evolution/OTA" name="OTA" remote="evo" />
   <project path="evolution/OTA-VANILLA" name="OTA" remote="evo" revision="cnb-vanilla" />
 
