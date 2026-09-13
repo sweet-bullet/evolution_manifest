@@ -125,7 +125,7 @@
   <project path="system/fs/fs_mgr" name="system_fs_fs_mgr" groups="pdk" remote="evo" />
   <project path="system/libhwbinder" name="system_libhwbinder" groups="pdk" remote="evo" />
   <project path="system/media" name="system_media" groups="pdk" remote="evo" />
-  <project path="system/memory/libdmabufheap" name="system_memory_libdmabufheap" groups="pdk" remote="evo" />
+  <project path="system/memory/libdmabufheap" name="LineageOS/android_system_memory_libdmabufheap" groups="pdk" remote="github" />
   <project path="system/memory/libmeminfo" name="system_memory_libmeminfo" groups="pdk" remote="evo" />
   <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="evo" />
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="evo" />
