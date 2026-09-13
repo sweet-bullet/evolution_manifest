@@ -136,7 +136,7 @@
   <project path="vendor/google/overlays/ThemeIcons" name="vendor_google_overlays_ThemeIcons" remote="evo" />
   <project path="vendor/gms" name="vendor_gms" remote="evo" clone-depth="1" />
   <project path="vendor/gms-mosey" name="vendor_gms-mosey" remote="evo" />
-  <project path="vendor/lineage" name="sweet-bullet/vendor_evolution" remote="github" revision="cnb" />
+  <project path="vendor/lineage" name="vendor_evolution" remote="evo" />
   <project path="vendor/pixel-style" name="vendor_pixel-style" remote="evo" />
   <!--<project path="vendor/themes" name="vendor_themes" remote="evo" />-->
 </manifest>
